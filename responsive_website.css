@@ -37,6 +37,7 @@ header img {
 }
 
 .container-nav {
+    display: flex;
     justify-content: space-around;
 }
 
